@@ -19,7 +19,7 @@ Aplicación full stack para gestión de adopciones.
 - Base de datos
 - Deploy online
 
-👉 Demo: https://refugios-mascotas.vercel.app/
+👉 Demo: https://refugios-mascotas.vercel.app/   Actualmente no disponible (deploy pausado)
 👉 Código: https://github.com/Eliancastro/refugios-mascotas
 
 ---
